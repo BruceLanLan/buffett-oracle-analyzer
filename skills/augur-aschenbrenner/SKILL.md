@@ -1,7 +1,7 @@
 ---
 name: augur-aschenbrenner
 description: "Leopold Aschenbrenner AI — AGI infrastructure + geopolitics, AI/semiconductor supply chains"
-version: 10.16.4
+version: 10.16.6
 author: lanzhihao1986@gmail.com
 license: MIT
 platforms: [linux, macos, windows]
