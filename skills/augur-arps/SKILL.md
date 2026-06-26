@@ -1,7 +1,7 @@
 ---
 name: augur-arps
 description: "ARPS AI — real rates + crypto/gold macro, inflation hedging"
-version: 10.16.10
+version: 10.16.12
 author: lanzhihao1986@gmail.com
 license: MIT
 platforms: [linux, macos, windows]
