@@ -1,7 +1,7 @@
 ---
 name: augur-dan-bin
 description: "但斌（东方港湾）AI — 品牌护城河·时代Beta，中国消费龙头"
-version: 10.7.0
+version: 10.8.0
 author: lanzhihao1986@gmail.com
 license: MIT
 platforms: [linux, macos, windows]
