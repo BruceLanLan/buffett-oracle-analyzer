@@ -1,7 +1,7 @@
 ---
 name: augur-soros
 description: "George Soros AI — reflexivity / macro trading, crisis and momentum"
-version: 10.4.0
+version: 10.5.0
 author: lanzhihao1986@gmail.com
 license: MIT
 platforms: [linux, macos, windows]
