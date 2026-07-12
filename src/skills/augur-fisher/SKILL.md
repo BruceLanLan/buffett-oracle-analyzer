@@ -1,7 +1,7 @@
 ---
 name: augur-fisher
 description: "Philip Fisher AI — growth quality / scuttlebutt, tech and specialty"
-version: 10.10.0
+version: 10.11.0
 author: lanzhihao1986@gmail.com
 license: MIT
 platforms: [linux, macos, windows]
