@@ -1,7 +1,7 @@
 ---
 name: augur-dalio
 description: "Ray Dalio AI — macro / all-weather portfolio, debt cycles"
-version: 10.12.0
+version: 10.13.0
 author: lanzhihao1986@gmail.com
 license: MIT
 platforms: [linux, macos, windows]

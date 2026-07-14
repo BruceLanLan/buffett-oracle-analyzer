@@ -1,7 +1,7 @@
 ---
 name: augur-marks
 description: "Howard Marks AI — cycle / contrarian, second-level thinking"
-version: 10.12.0
+version: 10.13.0
 author: lanzhihao1986@gmail.com
 license: MIT
 platforms: [linux, macos, windows]
